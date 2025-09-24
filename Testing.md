@@ -1,0 +1,1 @@
+- Test the Flatpak systemconfig solution for Firefox, Floorp, and Zen.
